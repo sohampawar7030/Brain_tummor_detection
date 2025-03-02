@@ -1,1 +1,13 @@
-sharpend image , segmented image ,applied morophological operations, applied windowing technique and last detection this is the project pre processing steps 
+streamlit==1.21.0
+numpy==1.24.0
+opencv-python==4.7.0.72
+Pillow==9.5.0
+ultralytics==8.0.0
+python-dotenv==1.0.0
+email-validator
+matplotlib==3.6.2
+pandas==1.5.3
+fpdf==1.7.2
+requests==2.31.0
+feedparser==6.0.10
+beautifulsoup4==4.12.2
