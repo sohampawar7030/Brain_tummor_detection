@@ -1,0 +1,1 @@
+sharpend image , segmented image ,applied morophological operations, applied windowing technique and last detection this is the project pre processing steps 
